@@ -1,0 +1,32 @@
+
+/********************external css*******************************/
+body{
+    background-color: #F5F5DC;
+  }
+
+  h1 {
+    background-color: white;
+    color: #4C6793;
+  }
+
+  h3{
+    color: #31E1F7;
+  }
+
+hr{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%
+  }
+/********************class*******************************/
+.color{
+  color: blue;
+}
+
+/*******************ID*******************************/
+
+#border{
+  border-style: dotted none none;
+  border-color: white;
+}
